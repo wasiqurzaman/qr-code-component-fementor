@@ -20,8 +20,8 @@ This is the solution of QR code component challenge in [Frontendmentor.io](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wasiqurzaman/qr-code-component-fementor)
-- Live Site URL: [Add live site URL here](https://wasiqurzaman.github.io/qr-code-component-fementor/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-card-component-solution-kAh5GuxOiy)
+- Live Site URL: [Live](https://wasiqurzaman.github.io/qr-code-component-fementor/)
 
 ### Built with
 
